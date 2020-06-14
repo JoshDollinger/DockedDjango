@@ -1,3 +1,5 @@
+Test project for the new WSL2/Docker setup. Potential starting point for full project.
+
 # Production
 
 * docker-compose -f docker-compose.prod.yml up -d --build
